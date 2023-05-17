@@ -51,5 +51,5 @@ function App() {
       </ConteinerIntens>
     </Conteiner>
   );
-}
+}  
 export default App;
